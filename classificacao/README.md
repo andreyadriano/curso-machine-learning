@@ -8,7 +8,10 @@ São ensinados conceitos de tipos de dados, como categóricos e numéricos, e co
 Para o aprendizado, utilizamos duas bases de dados diferentes, sendo a primeira uma base de dados de crédito e a segunda uma base de dados de um censo da população americana.
 
 Notebook: [Pré-processamento dos dados](./pre_processamento.ipynb)
+
 ### 4. Aprendizagem bayesiana
+O algoritmo Naive Bayes faz uma abordagem probabilística. Ele é baseado no teorema de Bayes e assume que as variáveis são independentes entre si. O algoritmo é muito utilizado em classificação de textos, análise de sentimentos e classificação de e-mails.
+
 ### 5. Aprendizagem por árvores de decisão
 ### 6. Aprendizagem por regras
 ### 7. Aprendizagem baseada em instâncias
