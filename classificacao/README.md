@@ -12,6 +12,9 @@ Notebook: [Pré-processamento dos dados](./pre_processamento.ipynb)
 ### 4. Aprendizagem bayesiana
 O algoritmo Naive Bayes faz uma abordagem probabilística. Ele é baseado no teorema de Bayes e assume que as variáveis são independentes entre si. O algoritmo é muito utilizado em classificação de textos, análise de sentimentos e classificação de e-mails.
 
+Vantagens: É simples e rápido, e funciona bem com grandes volumes de dados.
+Desvantagens: Assume que as variáveis são independentes, o que nem sempre é verdade.
+
 ### 5. Aprendizagem por árvores de decisão
 ### 6. Aprendizagem por regras
 ### 7. Aprendizagem baseada em instâncias
